@@ -23,7 +23,7 @@ This is an interactive language learning application powered by the **Google Gem
   <img src="assets/3.png" alt="Immersive Language Learning Screenshot 3" width="30%">
 </div>
 
-## Features
+## Featuress
 
 - **Missions & Roleplay**: Chose from structured scenarios with specific objectives.
 - **Learning Modes**:
